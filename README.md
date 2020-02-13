@@ -235,10 +235,7 @@ chmod +x install.sh
 
 <p>如果觉得脚本好用，记得分享给你的其他小伙伴们哦~(不过别分享了吧，这个不太稳定了）</p>
 
-<h2 id="其他">其他</h2>
-
-<p>请勿违反国家法律法规，否则后果自负！<br />
 
 
 <p>需要服务器么？看这里</p>
-<a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
+<a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
