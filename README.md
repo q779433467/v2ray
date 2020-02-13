@@ -197,9 +197,8 @@ Github 反馈：<a href="https://github.com/233boy/v2ray/issues" rel="nofollow" 
 <h2 id="备份">备份</h2>
 
 
-安装方法，确保你已经 Fork 了脚本，将 233boy 修改成你的 Github 用户名</p>
 
-<pre><code>git clone https://github.com/233boy/v2ray
+<pre><code>git clone https://github.com/q779433467/v2ray
 cd v2ray
 chmod +x install.sh
 ./install.sh local
@@ -212,12 +211,7 @@ chmod +x install.sh
 </div>
 
 
-<p>如果提示 git 命令不可用，那就自己安装咯，不会安装啊？我也不知道啊。哈哈</p>
-
-<h2 id="关注脚本最新动态">关注脚本最新动态</h2>
-
-<p>本人会在 <a href="https://t.me/blog2333" rel="nofollow" target="_blank">本站 Telegram 公告频道</a> 推送脚本最新动态相关，如果你使用 Telegram 的话，可以关注一下。<br />
-当然啦，你也可以加入 <a href="https://t.me/blog233" rel="nofollow" target="_blank">本站 Telegram 群组</a> 来吹水。</p>
+<p>如果提示 git 命令不可用，那就自己安装咯.</p>
 
 <h2 id="资助-v2ray">资助 V2Ray</h2>
 
@@ -235,7 +229,7 @@ chmod +x install.sh
 
 <h2 id="版权">版权</h2>
 
-<p>此脚本使用 GPL v3 协议共享。</p>
+<p>此脚本使用 Anti 996icu 协议共享。</p>
 
 <h2 id="分享">分享</h2>
 
