@@ -5,7 +5,7 @@
 
 <p>V2Ray 官网：<a href="https://www.v2ray.com" rel="nofollow" target="_blank">https://www.v2ray.com</a></p>
 
-<p>V2Ray 是一个于 Shadowsocks 之后非常好用的代理软件，但是由于 V2Ray 的配置略复杂，GUI 客户端不完善，所以 V2Ray 并没有像 Shadowsocks 在科学上网人群之中那么流行。<br />
+<p>V2Ray 是一个于 Shadowsocks（纸飞机） 之后非常好用的代理软件，但是由于 V2Ray 的配置略复杂，GUI 客户端不完善，所以 V2Ray 并没有像 Shadowsocks 在科学上网人群之中那么流行。<br />
 不过我想，像我这种小小白萌新，更需要的是一个好用的一键安装脚本……<br />
 所以，此脚本是为了方便像我这种小小白萌新更加容易去使用 V2Ray，配置 V2Ray。希望对你有帮助 ^_^</p>
 
@@ -17,8 +17,7 @@
 
 <h2 id="温馨提示">温馨提示</h2>
 
-<p><strong>特么这个脚本没有挖矿，没有挖矿，没有挖矿。</strong> 我很抱歉……认真的开了个玩笑<br />
-脚本是开源的，开源地址：没了（Removed,这是Fork版本，请使用本地安装）
+<p><strong>脚本是开源的，开源地址：没了（Removed,这是Fork版本，请使用本地安装（看最后）</strong> 
 
 <h2 id="功能特点">功能特点</h2>
 
@@ -48,8 +47,6 @@
 <li>人性化向导 &amp; 纯净安装 &amp; 卸载彻底<br />
 <br /></li>
 </ol>
-
-<p>哈哈哈..我故意要写够 23 条的。说着当然，脚本肯定都会有如上所说的功能。</p>
 
 <h2 id="安装或卸载">安装或卸载</h2>
 
@@ -242,12 +239,10 @@ chmod +x install.sh
 
 <h2 id="分享">分享</h2>
 
-<p>如果觉得脚本好用，记得分享给你的其他小伙伴们哦~</p>
+<p>如果觉得脚本好用，记得分享给你的其他小伙伴们哦~(不过别分享了吧，这个不太稳定了）</p>
 
 <h2 id="其他">其他</h2>
 
 <p>请勿违反国家法律法规，否则后果自负！<br />
 使用一键脚本并不会害了你，并且会让你节省大量的时间，工具从来都是为了更快的解决问题。</p>
 
-<p><img src="https://affpass.com/ga?ga=v2ray&amp;dt=github.wiki.1&amp;dr=&amp;ul=zh-CN&amp;sd=24-bit&amp;sr=&amp;vp=&amp;z=0&amp;dl=/github/1" alt="" /></p>
-</div>
