@@ -240,5 +240,5 @@ chmod +x install.sh
 <p>请勿违反国家法律法规，否则后果自负！<br />
 
 
-<strong>需要服务器么？看这里！<strong>
+<p>需要服务器么？看这里</p>
 <a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
