@@ -13,24 +13,12 @@
 <p>如果你是毫无经验的小白，搭建 V2Ray 请看此教程：<a href="https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B" rel="nofollow" target="_blank">V2Ray搭建详细图文教程</a></p>
 </blockquote>
 
-<h2 id="更新日志">更新日志</h2>
 
-<ul>
-<li>2018-01-28<br />
-第一个完善版本发布&hellip;<br /></li>
-<li>2018-5-2<br />
-支持 HTTP/2 &hellip; 懒得发一个版本就在这里写一下<br /></li>
-<li>2018-5-26<br />
-支持 Socks5 &hellip;<br /></li>
-<li>2019-1-5<br />
-v3.05 版本，更加好用了。新年快乐！<br />
-<br /></li>
-</ul>
 
 <h2 id="温馨提示">温馨提示</h2>
 
 <p><strong>特么这个脚本没有挖矿，没有挖矿，没有挖矿。</strong> 我很抱歉……认真的开了个玩笑<br />
-脚本是开源的，开源地址： <a href="https://github.com/233boy/v2ray" rel="nofollow" target="_blank">https://github.com/233boy/v2ray</a></p>
+脚本是开源的，开源地址：没了（Removed,这是Fork版本，请使用本地安装）
 
 <h2 id="功能特点">功能特点</h2>
 
@@ -66,27 +54,14 @@ v3.05 版本，更加好用了。新年快乐！<br />
 <h2 id="安装或卸载">安装或卸载</h2>
 
 <blockquote>
-<p>温馨提醒，此脚本默认屏蔽一些不友好的网站！(仅限轮子相关)</p>
+<p>温馨提醒，此脚本默认屏蔽一些不友好的网站!!</p>
 </blockquote>
 
 <p>要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统<br />
 推荐使用 Debian 9 系统，脚本会自动启用 BBR 优化。<br />
 备注：不推荐使用 Debian 8 系统，因为 Caddy 申请证书可能会出现一些莫名其妙的问题<br />
-<strong>强烈推荐使用 <a href="https://affpass.com/go/bwg" rel="nofollow" target="_blank">搬瓦工VPS</a>，稳定，快速，针对中国线路专门优化，完全无须担心跑路，服务好，30天退款保证。<br />
-在这里可以找到 <a href="https://233vps.com/post/bandwagonhost-plans/" target="_blank">
-     搬瓦工 VPS 套餐大全  
-</a>
- ，优惠码在这里： <a href="https://233vps.com/post/bandwagonhost-coupon-code/" target="_blank">
-     搬瓦工 VPS 优惠码  
-</a>
-</strong><br />
-使用 root 用户输入下面命令安装或卸载</p>
 
-<pre><code>bash &lt;(curl -s -L https://git.io/v2ray.sh)
-</code></pre>
 
-<div class="post-ad">
-    
     
     
 </div>
@@ -224,11 +199,7 @@ Github 反馈：<a href="https://github.com/233boy/v2ray/issues" rel="nofollow" 
 
 <h2 id="备份">备份</h2>
 
-<p>为了避免由于不可抗拒的原因所造成本人主动删除脚本，所以建议请将本脚本 Fork 一份<br />
-备份地址：<a href="https://github.com/233boy/v2ray/fork" rel="nofollow" target="_blank">
-     https://github.com/233boy/v2ray/fork 
-</a>
-<br />
+
 安装方法，确保你已经 Fork 了脚本，将 233boy 修改成你的 Github 用户名</p>
 
 <pre><code>git clone https://github.com/233boy/v2ray
@@ -245,11 +216,6 @@ chmod +x install.sh
 
 
 <p>如果提示 git 命令不可用，那就自己安装咯，不会安装啊？我也不知道啊。哈哈</p>
-
-<h2 id="及时更新脚本">及时更新脚本</h2>
-
-<p>为确保你能愉快使用，请留意使用 <code>v2ray update.sh</code> 命令来更新管理脚本。<br />
-脚本难免会有 BUG，所以建议有空就检查一下更新情况。</p>
 
 <h2 id="关注脚本最新动态">关注脚本最新动态</h2>
 
