@@ -191,7 +191,7 @@ Github 反馈：<a href="https://github.com/233boy/v2ray/issues" rel="nofollow" 
 </a>
 <br />
 任何有关于 V2Ray 的问题，请自行到 V2Ray 官方反馈。<br />
-<strong>目前只支持配置一个 V2Ray 账号&hellip;一个 Shadowsocks 账号。。不支持 SSR。。<a href="https://imgki.com/archives/171.html" rel="nofollow" target="_blank"></strong>SSR请考虑 这个</br>
+<strong>目前只支持配置一个 V2Ray 账号&hellip;一个 Shadowsocks 账号。。不支持 SSR。。<br/><a href="https://imgki.com/archives/171.html" rel="nofollow" target="_blank"></strong>SSR请考虑 这个</br></a>
     
     
 <strong>使用国际大厂的 VPS，请自行在安全组 (防火墙) 开放端口和 UDP 协议 (如果你要使用含有 mKCP 的传输协议)</strong></p>
