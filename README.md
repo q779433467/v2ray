@@ -191,7 +191,7 @@ Github 反馈：<a href="https://github.com/233boy/v2ray/issues" rel="nofollow" 
 </a>
 <br />
 任何有关于 V2Ray 的问题，请自行到 V2Ray 官方反馈。<br />
-<strong>目前只支持配置一个 V2Ray 账号&hellip;一个 Shadowsocks 账号。。不支持 SSR。。</strong><br />
+<strong>目前只支持配置一个 V2Ray 账号&hellip;一个 Shadowsocks 账号。。不支持 SSR。。SSR请考虑 <a href="https://imgki.com/archives/171.html" rel="nofollow" target="_blank"></strong><br />
 <strong>使用国际大厂的 VPS，请自行在安全组 (防火墙) 开放端口和 UDP 协议 (如果你要使用含有 mKCP 的传输协议)</strong></p>
 
 <h2 id="备份">备份</h2>
@@ -229,7 +229,7 @@ chmod +x install.sh
 
 <h2 id="版权">版权</h2>
 
-<p>此脚本使用 Anti 996icu 协议共享。</p>
+<p>此脚本使用 <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE" rel="nofollow" target="_blank">Anti 996icu 协议共享。</p>
 
 <h2 id="分享">分享</h2>
 
@@ -238,5 +238,7 @@ chmod +x install.sh
 <h2 id="其他">其他</h2>
 
 <p>请勿违反国家法律法规，否则后果自负！<br />
-使用一键脚本并不会害了你，并且会让你节省大量的时间，工具从来都是为了更快的解决问题。</p>
 
+
+<strong>需要服务器么？看这里！<strong>
+<a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_468x60.png" width="468" height="60"></a>
