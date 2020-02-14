@@ -1,3 +1,4 @@
+![越过长城，走向世界](https://cdn.laod.wang/wp-content/uploads/2018/09/cc.gif)
 <div class="post-content">
 <p>支持 V2Ray 绝大多数传输协议，WebSocket + TLS，HTTP/2，Shadowsocks，动态端口，集成 BBR 和锐速优化等。</p>
 
@@ -51,7 +52,7 @@
 <h2 id="安装或卸载">安装或卸载</h2>
 
 <blockquote>
-<p>温馨提醒，此脚本默认屏蔽一些不友好的网站!!</p>
+<p>温馨提醒，此脚本默认屏蔽一些不友好的网站!!（轮子的网站）</p>
 </blockquote>
 
 <p>要求：Ubuntu 16+ / Debian 8+ / CentOS 7+ 系统<br />
@@ -191,7 +192,7 @@ Github 反馈：<a href="https://github.com/233boy/v2ray/issues" rel="nofollow" 
 </a>
 <br />
 任何有关于 V2Ray 的问题，请自行到 V2Ray 官方反馈。<br />
-<strong>目前只支持配置一个 V2Ray 账号&hellip;一个 Shadowsocks 账号。。不支持 SSR。。<br/><a href="https://imgki.com/archives/171.html" rel="nofollow" target="_blank"></strong>SSR请考虑 这个</br></a>
+<strong>目前只支持配置一个 V2Ray 账号&hellip;一个 Shadowsocks 账号。。不支持 SSR。。<br/><a href="https://github.com/q779433467/Teddysun-sSS" rel="nofollow" target="_blank"></strong>SSR请考虑 这个</br></a>
     
     
 <strong>使用国际大厂的 VPS，请自行在安全组 (防火墙) 开放端口和 UDP 协议 (如果你要使用含有 mKCP 的传输协议)</strong></p>
@@ -213,7 +214,7 @@ chmod +x install.sh
 </div>
 
 
-<p>如果提示 git 命令不可用，那就自己安装咯.</p>
+<p>如果提示 git 命令不可用，那就自己安装咯</p>
 
 <h2 id="资助-v2ray">资助 V2Ray</h2>
 
@@ -239,5 +240,5 @@ chmod +x install.sh
 
 
 
-<p>需要服务器么？看这里</p>
-<a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
+>需要服务器么？看这里
+><a href="https://www.vultr.com/?ref=8372571-6G"><img src="https://www.vultr.com/media/banners/banner_728x90.png" width="728" height="90"></a>
