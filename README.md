@@ -232,7 +232,7 @@ chmod +x install.sh
 
 <h2 id="版权">版权</h2>
 
-<p>此脚本使用 <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE" rel="nofollow" target="_blank">Anti 996icu 协议共享。</p>
+<p>此脚本使用 <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE" rel="nofollow" target="_blank">Anti 996icu </a>协议共享。</p>
 
 <h2 id="分享">分享</h2>
 
